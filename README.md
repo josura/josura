@@ -19,9 +19,16 @@ Here are some ideas to get you started:
 -->
 
 ### Links
-[<img align="left" alt="my webpage" source="https://josura.github.io/assets/img/josuraIcon.png" />][website]
+[<img src="https://josura.github.io/assets/img/josuraIcon.png"
+     align="left"
+     alt="webpage"
+     style="float: left; margin-right: 10px;" />][website]  (website)
 <br />
-[<img align="left" alt="researchgate profile" source="https://c5.rgstatic.net/m/426351313275430/images/favicon/favicon.ico" />][researchgate]
+
+[<img src="https://c5.rgstatic.net/m/426351313275430/images/favicon/favicon.ico"
+     align="left"
+     alt="researchgate"
+     style="float: left; margin-right: 10px;" />][researchgate]  (Researchgate profile)
 
 
 [website]: https://josura.github.io/
