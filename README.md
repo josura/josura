@@ -37,4 +37,16 @@ Here are some ideas to get you started:
 <br />
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josura)](https://github.com/anuraghazra/github-readme-stats)
+![Josura's GitHub stats](https://github-readme-stats-ful.vercel.app/api?username=josura&count_private=true&theme=dracula)  
+<!--![Main Languages](https://github-readme-stats-ful.vercel.app&hide=jupyternotebook/api/top-langs/?username=josura)
+ not included since the report card for languages is completely wrong, better results with the following--> 
+
+<!--
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=josura&count_private=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josura&theme=dracula" />
+</a>
+-->
