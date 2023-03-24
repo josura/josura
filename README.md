@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on many things
-- ㊙️ I'm currently hiding and keeping many secrets
 
 <!--
 **josura/josura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,10 +36,11 @@ Here are some ideas to get you started:
 <br />
 
 ### Stats
-![Josura's GitHub stats](https://github-readme-stats-ful.vercel.app/api?username=josura&count_private=true&theme=dracula)  
+<!--![Josura's GitHub stats](https://github-readme-stats-ful.vercel.app/api?username=josura&count_private=true&theme=dracula)-->
 <!--![Main Languages](https://github-readme-stats-ful.vercel.app&hide=jupyternotebook/api/top-langs/?username=josura)
  not included since the report card for languages is completely wrong, better results with the following--> 
-
+| <a href="https://github.com/josura"><img align="center" src="https://github-readme-stats-ful.vercel.app/api?username=josura&count_private=true&theme=dracula&hide_border=true" alt="josura's github stats" /></a> | <a href="https://github.com/josura"><img align="center" src="https://github-readme-stats-ful.vercel.app/api/top-langs/?username=josura&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- |
 <!--
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
