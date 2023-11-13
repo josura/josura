@@ -3,20 +3,6 @@
 
 - 🔭 I’m currently working on many things
 
-<!--
-**josura/josura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Links
 [<img src="https://josura.github.io/assets/img/josuraIcon.png"
      align="left"
@@ -35,12 +21,14 @@ Here are some ideas to get you started:
 
 <br />
 
-### Stats
+<!--### Stats-->
 <!--![Josura's GitHub stats](https://github-readme-stats-ful.vercel.app/api?username=josura&count_private=true&theme=dracula)-->
 <!--![Main Languages](https://github-readme-stats-ful.vercel.app&hide=jupyternotebook/api/top-langs/?username=josura)
  not included since the report card for languages is completely wrong, better results with the following--> 
+<!--
 | <a href="https://github.com/josura"><img align="center" src="https://github-readme-stats-ful.vercel.app/api?username=josura&count_private=true&theme=dracula&hide_border=true" alt="josura's github stats" /></a> | <a href="https://github.com/josura"><img align="center" src="https://github-readme-stats-ful.vercel.app/api/top-langs/?username=josura&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
+-->
 <!--
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
