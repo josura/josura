@@ -1,7 +1,7 @@
 ### Hi there 🌀
 
 
-- 🔭 I’m currently working on many things
+- 🔭 I’m currently working finishing my Ph.D.
 
 ### Links
 [<img src="https://josura.github.io/assets/img/josuraIcon.png"
