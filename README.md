@@ -1,7 +1,9 @@
 ### Hi there 🌀
 
 
-- 🔭 I’m currently working finishing my Ph.D.
+- 🔭 I finished my Ph.D. in Complex Systems.
+- 💻 I am currently working at CINECA as a HPC Scientific Application Engineer
+- 📚 I am also looking for research opportunities
 
 ### Links
 [<img src="https://josura.github.io/assets/img/josuraIcon.png"
